@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["GP2FUKLG3R.tolebi.All-In-Motive"],
+        "components": [
+          { "/": "/tiktok-callback" }
+        ]
+      }
+    ]
+  }
+}
